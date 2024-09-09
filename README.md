@@ -20,5 +20,5 @@
 - [x] I am Planning to connect it with SQL Database and keep the record 
 - [ ] Work on Frontend making it a complete working application so that it helps you track your Investment.
 - [ ] Interavtive Graphs and Tables
-Happy Trading
+Happy Trading.
 
