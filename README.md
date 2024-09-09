@@ -22,4 +22,3 @@
 - [ ] Interavtive Graphs and Tables
 Happy Trading
 
-**Thankyou For the Guidance** [Satyajit Singh](https://github.com/todecypher)
